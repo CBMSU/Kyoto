@@ -5,7 +5,7 @@
 | Integrante | GitHub / E-mail |
 |---|---|
 | Arthur Vinícius Melo Santos | [arthur.vmelo@souunit.com.br](mailto:arthur.vmelo@souunit.com.br) |
-| Caio Barreti Martins | [@CBMSU](https://github.com/CBMSU) |
+| Caio Barreto Martins | [@CBMSU](https://github.com/CBMSU) |
 | Candson Leite Santana | [candson.leite@souunit.com.br](mailto:candson.leite@souunit.com.br) |
 | Gustavo Menezes Carvalho | [@GuMenenezesCa](https://github.com/GuMenenezesCa) |
 | João Victor da Silva Santos | [@victoorsaants](https://github.com/victoorsaants) |
