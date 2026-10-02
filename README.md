@@ -9,6 +9,6 @@
 | Candson Leite Santana | [candson.leite@souunit.com.br](mailto:candson.leite@souunit.com.br) |
 | Gustavo Menezes Carvalho | [@GuMenenezesCa](https://github.com/GuMenenezesCa) |
 | João Victor da Silva Santos | [@victoorsaants](https://github.com/victoorsaants) |
+| Julia Cabral | [@juliacabrl](https://github.com/juliacabrl) |
 | Pedro Lucas Fernandes Elias | [Pedro.lfernandes@souunit.com.br](mailto:Pedro.lfernandes@souunit.com.br) |
 | Robert João Slingeneyer de Goeswin de Almeida Mello | [@robertslingeneyer](https://github.com/robertslingeneyer) |
-| Julia Cabral | [@juliacabrl](https://github.com/juliacabrl) |
