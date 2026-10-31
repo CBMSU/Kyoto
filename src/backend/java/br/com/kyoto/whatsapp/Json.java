@@ -1,4 +1,4 @@
-package br.com.kyoto.whatsapp;
+package backend.java.br.com.kyoto.whatsapp;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

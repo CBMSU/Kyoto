@@ -1,4 +1,4 @@
-package br.com.kyoto.whatsapp;
+package backend.java.br.com.kyoto.whatsapp;
 
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;

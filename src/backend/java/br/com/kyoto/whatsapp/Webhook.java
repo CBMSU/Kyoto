@@ -1,4 +1,4 @@
-package br.com.kyoto.whatsapp;
+package backend.java.br.com.kyoto.whatsapp;
 
 import java.nio.charset.StandardCharsets;
 import java.nio.ByteBuffer;
