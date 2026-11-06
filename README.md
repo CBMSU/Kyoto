@@ -12,3 +12,7 @@
 | Julia Cabral | [@juliacabrl](https://github.com/juliacabrl) |
 | Pedro Lucas Fernandes Elias | [Pedro.lfernandes@souunit.com.br](mailto:Pedro.lfernandes@souunit.com.br) |
 | Robert João Slingeneyer de Goeswin de Almeida Mello | [@robertslingeneyer](https://github.com/robertslingeneyer) |
+
+## Integração WhatsApp
+
+Webhook Java da API oficial: [instruções de configuração e execução](whatsapp-webhook/README.md).
