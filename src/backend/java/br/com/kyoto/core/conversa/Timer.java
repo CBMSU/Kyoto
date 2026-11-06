@@ -1,4 +1,4 @@
-package br.com.kyoto.conversa;
+package br.com.kyoto.core.conversa;
 
 import java.time.LocalDateTime;
 
