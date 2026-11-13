@@ -12,3 +12,4 @@
 | Julia Cabral | [@juliacabrl](https://github.com/juliacabrl) |
 | Pedro Lucas Fernandes Elias | [Pedro.lfernandes@souunit.com.br](mailto:Pedro.lfernandes@souunit.com.br) |
 | Robert João Slingeneyer de Goeswin de Almeida Mello | [@robertslingeneyer](https://github.com/robertslingeneyer) |
+| João Pedro Rodrigues de Azevedo | [@joaopedro](https://github.com/piratespedro) 
